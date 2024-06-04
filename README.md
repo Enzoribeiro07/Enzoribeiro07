@@ -1,16 +1,14 @@
-## Hi there 👋
+**Boas vindas ao meu perfil** 💙
 
-<!--
-**Enzoribeiro07/Enzoribeiro07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Enzo Ribeiro
 
-Here are some ideas to get you started:
+- Estou estudando na [Alura](https://www.alura.com.br)
+- Estou aprendendo a linguagem de JavaScript
+- Utilizo esse portifólio para a organização e compartilhamento dos meus projetos desenvolvidos
+- Aula da Alura passada pelo professor Douglas, melhor professor de programação da escola Mário Leandro (e único)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Entre em contato comigo 📫
+
+ribeiro.enzo2008@gmail.com
+
+![image](https://github.com/Enzoribeiro07/Enzoribeiro07/assets/157758865/6b836064-db3f-45f9-94de-9490af27ec07)
